@@ -2,7 +2,8 @@
 
 /*
  * Author: Andrés Cimadamore(@acimadamore)
- * Problem ID:
+ * Judge:
+ * Problem:
  * URL:
  * Topics: 
  *
